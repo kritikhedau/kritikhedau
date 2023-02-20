@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kritikhedau
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...work based on programming language 
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning ...javascript
+- 💞️ I’m looking to collaborate on ...work based on web developement 
 - 📫 How to reach me ...kritikhedau@gmail.com
 
 <!---
