@@ -1,10 +1,9 @@
-<h2 align="left">👋 Hi there! I'm a React Native Developer with nearly 2 years of experience crafting high-quality mobile applications. I specialize in React and React Native, building user-friendly, performance-optimized apps.
+<h2 style="text-align: left;">👋 Hi there! I'm a React Native Developer with nearly 2 years of experience crafting high-quality mobile applications. I specialize in React and React Native, building user-friendly, performance-optimized apps.</h2>
 
-🔧 My expertise spans across e-commerce, fintech, and food delivery applications, where I focus on delivering seamless user experiences and robust backend integrations.
+<h2 style="text-align: left;">🔧 My expertise spans across e-commerce, fintech, and food delivery applications, where I focus on delivering seamless user experiences and robust backend integrations.</h2>
 
-🚀 Passionate about clean code and scalability, I’m always eager to explore new technologies and tools to enhance my projects. Let's connect and collaborate on exciting opportunities!
+<h2 style="text-align: left;">🚀 Passionate about clean code and scalability, I’m always eager to explore new technologies and tools to enhance my projects. Let's connect and collaborate on exciting opportunities!</h2>
 
-</h2>
 
 ###
 
