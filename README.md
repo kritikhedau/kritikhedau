@@ -1,8 +1,10 @@
-<h2 style="text-align: left;">👋 Hi there! I'm a React Native Developer with 2+ years of experience crafting high-quality mobile applications. I specialize in React and React Native, building user-friendly, performance-optimized apps.</h2>
+<h2 style="text-align: left;">React Native developer with 2+ years of experience building cross-platform mobile apps. Passionate about performance, clean architecture, and great UX.</h2>
 
-<h2 style="text-align: left;">🔧 My expertise spans across e-commerce, fintech, and food delivery applications, where I focus on delivering seamless user experiences and robust backend integrations.</h2>
+<h2 style="text-align: left;">🔧 Tools: React Native, TypeScript, Firebase, WebSockets, Redux
 
-<h2 style="text-align: left;">🚀 Passionate about clean code and scalability, I’m always eager to explore new technologies and tools to enhance my projects. Let's connect and collaborate on exciting opportunities!</h2>
+🚀 10+ apps deployed | Real-time tracking | Offline features | Fintech & Food Delivery
+
+Let's build something awesome → kritikhedau@gmail.com</h2>
 
 
 ###
