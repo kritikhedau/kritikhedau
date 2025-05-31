@@ -1,10 +1,10 @@
-<h2 style="text-align: left;">React Native developer with 2+ years of experience building cross-platform mobile apps. Passionate about performance, clean architecture, and great UX.</h2>
+<h3 style="text-align: left;">React Native developer with 2+ years of experience building cross-platform mobile apps. Passionate about performance, clean architecture, and great UX.</h3>
 
-<h2 style="text-align: left;">🔧 Tools: React Native, TypeScript, Firebase, WebSockets, Redux
+<h3 style="text-align: left;">🔧 Tools: React Native, TypeScript, Firebase, WebSockets, Redux
 
 🚀 10+ apps deployed | Real-time tracking | Offline features | Fintech & Food Delivery
 
-Let's build something awesome → kritikhedau@gmail.com</h2>
+Let's build something awesome → kritikhedau@gmail.com</h3>
 
 
 ###
