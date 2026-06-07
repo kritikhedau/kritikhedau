@@ -34,9 +34,9 @@ I enjoy working on projects that blend **beautiful UI**, **robust architecture**
 ---
 
 ## 📊 GitHub Stats
-
-![Kritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kritikhedau&show_icons=true&theme=react&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritikhedau&layout=compact&theme=react&hide_border=true)
+![](https://github-readme-stats.shion.dev/api?username=kritikhedau&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kritikhedau&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kritikhedau&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
