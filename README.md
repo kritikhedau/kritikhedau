@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kritik Hedau
 
 ### 💻 Software Developer | Frontend & Mobile Engineer  
-📍 Bhopal, India • ✉️ kritikhedau@gmail.com • 🌐 [Portfolio](https://kritik-hedau.vercel.app/?ref=git)
+📍 India • ✉️ kritikhedau@gmail.com • 🌐 [Portfolio](https://kritik-hedau.vercel.app/?ref=git)
 
 ---
 
